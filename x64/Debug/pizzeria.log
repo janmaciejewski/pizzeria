@@ -1,0 +1,5 @@
+﻿  huj.cpp
+C:\Users\Admin\source\repos\huj\huj\huj.cpp(177,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Admin\source\repos\huj\huj\huj.cpp(184,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Admin\source\repos\huj\huj\huj.cpp(192,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  huj.vcxproj -> C:\Users\Admin\source\repos\huj\x64\Debug\huj.exe
